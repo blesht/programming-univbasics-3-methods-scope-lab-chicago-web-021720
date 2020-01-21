@@ -14,7 +14,7 @@ end
 mario
 toadstool
 
-def any_phrase(arg)
+def any_phrase(ph)
   phrase = "Do A Barrel Roll!"
   puts phrase
 end
